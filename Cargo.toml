@@ -1,5 +1,5 @@
 [package]
-name = "rust_lib_template"
+name = "proc_macro_common"
 version = "0.1.0"
 edition = "2021"
 
